@@ -6,11 +6,13 @@ Just a little bit of information about me: I was born and raised, and then immed
 
 ![Ru$lan-BG](https://github.com/user-attachments/assets/06d64228-d1ff-46ee-9bb7-4e51fcd84664)
 
-## Validator Exp
+## Validator Exp ⌛
+
+<img src="https://github.com/user-attachments/assets/3619fca8-78f6-451a-a1f9-9a0cf11a11de" width=150>
 
 
 
-## My Guides
+## My Guides 📖🤓
 Among other things, I also write guides, which just do not leave indifferent people! But not always the reaction is positive... 😭 But come on) 😏 If anything, I always try to improve, because I want to help humanity 👆
 
 - 👉 [0G LABS: DA_node_installation_guide](https://github.com/RuslanKhvan/DA_node_installation_guide)
