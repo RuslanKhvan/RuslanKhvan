@@ -8,13 +8,15 @@ Just a little bit of information about me: I was born and raised, and then immed
 
 ## Validator Exp
 
+
+
 ## My Guides
 Among other things, I also write guides, which just do not leave indifferent people! But not always the reaction is positive... 😭 But come on) 😏 If anything, I always try to improve, because I want to help humanity 👆
 
 - 👉 [0G LABS: DA_node_installation_guide](https://github.com/RuslanKhvan/DA_node_installation_guide)
 - 👉 [0G LABS: DA_client_installation_guide](https://github.com/RuslanKhvan/DA_client_installation_guide)
-- 👉 [-]()
-- 👉 [-]()
+- 👉 [WARDEN: Start Node Guide]()
+- 👉 [AIRCHAINS: Run a Validator Node]()
 
 ## Links
 My Dear Twitter: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877) | My Discord: [**Don't miss!👈👀**](https://discord.com/users/933934112060878849)
