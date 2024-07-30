@@ -19,5 +19,5 @@ Among other things, I also write guides, which just do not leave indifferent peo
 - 👉 [AIRCHAINS: Run a Validator Node]()
 
 ## Links
-My Dear Twitter: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877) | My Discord: [**Don't miss!👈👀**](https://discord.com/users/933934112060878849)
+**My Dear Twitter**: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877) | **My Discord**: [**Don't miss!👈👀**](https://discord.com/users/933934112060878849) | **Teletype**: [**Some articles here🤓**](https://teletype.in/@ruslankv)
 
