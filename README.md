@@ -8,3 +8,5 @@ Just a little bit of information about me: I was born and raised, and then immed
 
 ## Validator Exp
 
+## Links
+My Dear Twitter: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877)
