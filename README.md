@@ -7,7 +7,6 @@ Just a little bit of information about me: I was born and raised, and then immed
 ![Ru$lan-BG](https://github.com/user-attachments/assets/06d64228-d1ff-46ee-9bb7-4e51fcd84664)
 
 ## Validator Exp ⌛
-
 <img src="https://github.com/user-attachments/assets/3619fca8-78f6-451a-a1f9-9a0cf11a11de" width=150>
 <img src="https://github.com/user-attachments/assets/51dc79e9-861e-4404-9080-160221dcaf0e" width=150>
 <img src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_200x200.jpg" width=150>
