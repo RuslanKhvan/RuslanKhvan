@@ -9,8 +9,9 @@ Just a little bit of information about me: I was born and raised, and then immed
 ## Validator Exp ⌛
 <img src="https://github.com/user-attachments/assets/3619fca8-78f6-451a-a1f9-9a0cf11a11de" width=150>
 <img src="https://github.com/user-attachments/assets/51dc79e9-861e-4404-9080-160221dcaf0e" width=150>
-<img src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_200x200.jpg" width=150>
-<img src="https://pbs.twimg.com/profile_images/1786260022676324353/q9a40NSw_200x200.png" width=150>
+<img src="https://github.com/user-attachments/assets/1d42ccc1-4aea-44c7-bd18-ce16ff10a104" width=150>
+<img src="https://github.com/user-attachments/assets/bac9815e-8b5f-48e3-a5d7-02c01a59dfa6" width=150>
+
 
 
 ## My Guides 📖🤓
