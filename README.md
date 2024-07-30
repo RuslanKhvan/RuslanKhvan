@@ -19,8 +19,8 @@ Among other things, I also write guides, which just do not leave indifferent peo
 
 - 👉 [0G LABS: DA_node_installation_guide](https://github.com/RuslanKhvan/DA_node_installation_guide)
 - 👉 [0G LABS: DA_client_installation_guide](https://github.com/RuslanKhvan/DA_client_installation_guide)
-- 👉 [WARDEN: Start Node Guide]()
-- 👉 [AIRCHAINS: Run a Validator Node]()
+- 👉 [WARDEN: Start Node Guide](https://teletype.in/@ruslankv/Ip33rsGMYgQ)
+- 👉 [AIRCHAINS: Run a Validator Node](https://teletype.in/@ruslankv/trkWhPUG6Mt)
 
 ## Links
 **My Dear Twitter**: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877) | **My Discord**: [**Don't miss!👈👀**](https://discord.com/users/933934112060878849) | **Teletype**: [**Some articles here🤓**](https://teletype.in/@ruslankv)
