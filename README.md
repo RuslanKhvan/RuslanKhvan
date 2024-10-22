@@ -7,27 +7,21 @@ Just a little bit of information about me: I was born and raised, and then immed
 ![Ru$lan-BG](https://github.com/user-attachments/assets/06d64228-d1ff-46ee-9bb7-4e51fcd84664)
 
 ## Validator Exp ⌛
-<img src="https://github.com/user-attachments/assets/3619fca8-78f6-451a-a1f9-9a0cf11a11de" width=150>
-<img src="https://github.com/user-attachments/assets/51dc79e9-861e-4404-9080-160221dcaf0e" width=150>
+<img src="https://github.com/user-attachments/assets/657c2696-bd0f-4eae-a9e8-7c5185e2f977" width=150>
 <img src="https://github.com/user-attachments/assets/1d42ccc1-4aea-44c7-bd18-ce16ff10a104" width=150>
-<img src="https://github.com/user-attachments/assets/bac9815e-8b5f-48e3-a5d7-02c01a59dfa6" width=150>
-<img src="https://github.com/user-attachments/assets/c12d43a5-e925-41e6-8900-7d1a476513ba" width=150>
-
-### Addresses
-- 👉 0gvaloper14eq8u0fsc990f724nw0q6344aqg8nhf8vxerq4
-- 👉 initvaloper1nl8zhch26jtqal43s36hwtwumtzjdfeqyuk90l
-- 👉 artvaloper1rmvrx0guz9z08afwmau72rrlc2jc40epp2kv96
-- 👉 airvaloper1c6f43ncqfdrj3yugulr4t3c36p80yhr043zj8q
-- 👉 wardenvaloper1v22ulfnnzljvxyv4j9turj9sxzs0fx69jxvryf
+<img src="https://github.com/user-attachments/assets/3980bf4d-fc7e-4e4f-ab7f-92f2c38018cf" width=150>
+<img src="https://github.com/user-attachments/assets/85a9f92c-7104-4900-972f-f0e3373b6804" width=150>
+<img src="https://github.com/user-attachments/assets/6ce0cbc2-905d-4a28-83df-a776477fe3c4" width=150>
+<img src="https://github.com/user-attachments/assets/f07f8006-a5ba-4359-bb21-7104a927f5cd" width=150>
+<img src="https://github.com/user-attachments/assets/0ef12475-59cf-4383-9edf-6974b16ce07e" width=150>
 
 ## My Guides 📖🤓
 Among other things, I also write guides, which just do not leave indifferent people! But not always the reaction is positive... 😭 But come on) 😏 If anything, I always try to improve, because I want to help humanity 👆
 
-- 👉 [0G LABS: DA_node_installation_guide](https://github.com/RuslanKhvan/DA_node_installation_guide)
-- 👉 [0G LABS: DA_client_installation_guide](https://github.com/RuslanKhvan/DA_client_installation_guide)
-- 👉 [WARDEN: Start Node Guide](https://teletype.in/@ruslankv/Ip33rsGMYgQ)
+- 👉 [Running a Minima Node on a Linux VPS](https://github.com/RuslanKhvan/minima-docker)
+- 👉 [Setup a Zenrock Node](https://github.com/RuslanKhvan/Zenrock-Installation)
+- 👉 [Quicksilver Testnet Node Installation Guide](https://github.com/RuslanKhvan/quicksilver-node)
 - 👉 [AIRCHAINS: Run a Validator Node](https://teletype.in/@ruslankv/trkWhPUG6Mt)
 
 ## Links
 **My Dear Twitter**: [**❤️Click here, sweetie pie!❤️**](https://x.com/Showoff877) | **My Discord**: [**Don't miss!👈👀**](https://discord.com/users/933934112060878849) | **Teletype**: [**Some articles here🤓**](https://teletype.in/@ruslankv)
-
